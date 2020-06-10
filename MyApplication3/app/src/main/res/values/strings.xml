@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string-array name="FontsArray">
+        <item>Allan-Regular.ttf</item>
+        <item>AllertaStencil-Regular.ttf</item>
+        <item>BerkshireSwash-Regular.ttf</item>
+        <item>CevicheOne-Regular.ttf</item>
+        <item>CinzelDecorative-Bold.ttf</item>
+        <item>CinzelDecorative-Regular.ttf</item>
+        <item>ComingSoon-Regular.ttf</item>
+        <item>CoveredByYourGrace-Regular.ttf</item>
+        <item>Damion-Regular.ttf</item>
+        <item>DancingScript-VariableFont_wght.ttf</item>
+        <item>Eater-Regular.ttf</item>
+        <item>FreckleFace-Regular.ttf</item>
+        <item>FrederickatheGreat-Regular.ttf</item>
+        <item>Itim-Regular.ttf</item>
+        <item>Kenia-Regular.ttf</item>
+        <item>Knewave-Regular.ttf</item>
+        <item>Lemonada-VariableFont_wght.ttf</item>
+        <item>LilyScriptOne-Regular.ttf</item>
+        <item>LoveYaLikeASister-Regular.ttf</item>
+        <item>Miltonian-Regular.ttf</item>
+        <item>Niconne-Regular.ttf</item>
+        <item>NothingYouCouldDo-Regular.ttf</item>
+        <item>Orbitron-VariableFont_wght.ttf</item>
+        <item>PalanquinDark-Medium.ttf</item>
+        <item>PlayfairDisplay-Italic-VariableFont_wght.ttf</item>
+        <item>PlayfairDisplay-VariableFont_wght.ttf</item>
+        <item>Podkova-VariableFont_wght.ttf</item>
+        <item>RacingSansOne-Regular.ttf</item>
+        <item>RobotoMono-Medium.ttf</item>
+        <item>RobotoSlab-VariableFont_wght.ttf</item>
+        <item>Shojumaru-Regular.ttf</item>
+        <item>Syncopate-Bold.ttf</item>
+        <item>Syncopate-Regular.ttf</item>
+        <item>UbuntuMono-Regular.ttf</item>
+        <item>YanoneKaffeesatz-VariableFont_wght.ttf</item>
+    </string-array>
+</resources>
